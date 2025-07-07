@@ -562,6 +562,8 @@ main .landing-section {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
+    height: max-content;
 }
 
 /* .cards-container, */
@@ -570,12 +572,6 @@ main .landing-section {
     margin: 10px;
     width: 100%;
     height: max-content;
-    transition: .3s transform ease;
-}
-
-.cards:hover {
-    cursor: default;
-    transform: scale(1.05);
 }
 
 .cards .cards-img img,
@@ -643,7 +639,6 @@ main .landing-section {
 
 .note,
 .about-img,
-.project-heading,
 .details-about .readmore,
 .details-about p {
     animation: var(--TextSlideAni-1s-ease);
