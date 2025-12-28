@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Hi, I’m Vipul Dalal, currently studying in University and internee in @EduFusion Tech. I’m interested in Web Development(currently-Front-End), Game Dev.</h4>
+<h4 align="left">I’m currently studying in University and internee in @EduFusion Tech. I’m interested in Web Development(currently-Front-End), Game Dev.</h4>
 - 🔭 I’m currently working in [EduFusion Tech](https://universitycopilot.com/)
 
 - 🌱 I’m currently learning **Frontend, Fast API, MongoDB, GSAP, Three.JS**
