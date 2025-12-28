@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Vipul%20Dalal&fontSize=70&fontColor=FEFEFE&fontAlign=50&fontAlignY=50&rotate=0&stroke=fefefe&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=100&section=header&reversal=false&text=Hi%20%F0%9F%91%8B,%20I'm%20Vipul%20Dalal&fontSize=70&fontColor=FEFE&fontAlign=50&fontAlignY=50&rotate=0&stroke=fefefe&strokeWidth=1&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=merko"  />
 </div>
 
 ###
